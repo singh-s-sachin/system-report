@@ -36,7 +36,7 @@ class report
             TimeUnit.SECONDS.sleep(4);
             }
             catch(InterruptedException E){
-                System.out.println("bhosriwala");
+                System.out.println("e");
             }
             if(i==5)
             {
@@ -50,7 +50,7 @@ class report
         }  
     }
     catch(Exception e){
-        System.out.println("Cutiya");
+        System.out.println("e");
     }
    }
 }
