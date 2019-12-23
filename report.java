@@ -3,7 +3,7 @@ import java.lang.management.*;
 import java.sql.*;
 import java.util.concurrent.TimeUnit;
 import com.mysql.jdbc.*;
-class muni
+class report
 {
     public static void main(String... a)
     {
